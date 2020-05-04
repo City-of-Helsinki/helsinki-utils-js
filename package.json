@@ -4,7 +4,8 @@
   "description": "Common code used by various City of Helsinki frontends",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint --ext js ."
   },
   "engines": {
     "node": ">=10.0.0"
