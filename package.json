@@ -1,0 +1,15 @@
+{
+  "name": "helsinki-utils",
+  "version": "0.0.0",
+  "description": "Common code used by various City of Helsinki frontends",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/City-of-Helsinki/helsinki-utils-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/City-of-Helsinki/helsinki-utils-js/issues"
+  },
+  "homepage": "https://github.com/City-of-Helsinki/helsinki-utils-js#readme"
+}
