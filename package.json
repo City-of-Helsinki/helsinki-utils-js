@@ -1,6 +1,6 @@
 {
   "name": "helsinki-utils",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Common code used by various City of Helsinki frontends",
   "main": "index.js",
   "scripts": {
