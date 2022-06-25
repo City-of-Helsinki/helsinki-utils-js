@@ -33,7 +33,7 @@
   "dependencies": {
     "commander": "^5.1.0",
     "i18next-json-csv-converter": "^0.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "bin": {
     "fetch-translations": "./scripts/fetch-translations/cli.js"
